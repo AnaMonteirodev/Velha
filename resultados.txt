@@ -8,3 +8,7 @@ bea - Vitórias: 32565
 ---- Resultados da Rodada 1 ----
 daniel - Vitórias: 257
 carlos - Vitórias: 32663
+
+---- Resultados da Rodada 1 ----
+ana - Vitórias: 257
+bea - Vitórias: 32623
